@@ -1,0 +1,10 @@
+# Secrets (never upload these)
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# Node
+node_modules/
+dist/
